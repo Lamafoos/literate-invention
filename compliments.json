@@ -1,0 +1,91 @@
+{
+    "anytime": [
+        "Prata inte med hat i munnen",
+        "You look great",
+        "You are amazing",
+        "Du är viktig",
+        "Du rockar den tröjan!",
+        "You're even better than a unicorn, because you're real",
+        "Du är stark",
+        "You should be thanked more often. So thank you!!",
+        "Du ger mig energi",
+        "Du inspirerar mig"
+    ],
+    "morning": [
+        "Good morning, sunshine!",
+        "Vem behöver kaffe när du har det leendet?",
+        "Go get 'em Tiger!",
+        "Take on the day you beautiful land mermaid you!"
+    ],
+    "afternoon": [
+        "Hur snygg som helst!",
+        "Du är fantastisk!",
+        "Du gör skillnad!",
+        "Mellanmål?"
+    ],
+    "evening": [
+        "Bra jobbat idag!",
+        "Now hit the hay!",
+        "Du fick någon att le idag, jag vet det",
+        "Du gör skilnad",
+        "The day was better for your efforts",
+        "Vi ses imorgon!",
+        "Sov gott"
+    ],
+    "snow": [
+        "Snöbollskrig!"
+    ],
+    "day_sunny": [
+        "Det är soligt idag",
+        "Det är en vacker dag",
+        "Solen skiner idag",
+        "Det är en så vacker dag!",
+        "Det är vackert ute, ut och lek!"
+    ],
+    "day_cloudy": [
+        "It's cloudy out there, but no meatballs",
+        "Det kanske är molnigt, men du kan fortfarade gå ut!",
+        "Solen gömmer sig bara just nu"
+    ],
+    "cloudy": [],
+    "cloudy_windy": [],
+    "showers": [],
+    "rain": [
+        "Ta ett paraply med dig",
+        "Det är blött ute, kör försiktigt!",
+        "Det är regnigt ute, men du lyser upp min dag!"
+    ],
+    "thunderstorm": [],
+    "fog": [],
+    "night_clear": [
+        "Weather forecast for tonight: dark"
+    ],
+    "night_cloudy": [],
+    "night_showers": [],
+    "night_rain": [],
+    "night_thunderstorm": [
+        "Det är stormigt inatt, var inte rädd"
+    ],
+    "night_alt_cloudy_windy": [],
+    "....-03-08": [
+        "Grattis på födelsedagen världens bästa mamma Hanne!!"
+    ],
+    "....-03-28": [
+        "Grattis på födelsedagen världens bästa pappa Christoffer!!"
+    ],
+    "....-05-11": [
+        "Grattis till världens bästa Patrik!"
+    ],
+    "....-12-24": [
+        "God jul!"
+    ],
+    "....-12-31": [
+        "Gott nytt år!"
+    ],
+    "2021-01-01": [
+        "Detta året kommmer vara bättre"
+    ],
+    "....-02-22": [
+        "Grattis till väldens bästa Isabelle!"
+    ]
+}
