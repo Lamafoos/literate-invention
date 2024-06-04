@@ -54,7 +54,9 @@
         "Det är blött ute, kör försiktigt!",
         "Det är regnigt ute, men du lyser upp min dag!"
     ],
-    "thunderstorm": [],
+    "thunderstorm": [
+        "Låter som Tor är och slåss mot jättar"
+    ],
     "fog": [],
     "night_clear": [
         "Weather forecast for tonight: dark"
@@ -73,7 +75,10 @@
         "Grattis på födelsedagen världens bästa pappa Christoffer!!"
     ],
     "....-05-11": [
-        "Grattis till världens bästa Patrik!"
+        "Glöm inte gratta Patrik idag!"
+    ],
+    "....-07-04": [
+        "Glöm inte gratta Mathilda idag!"
     ],
     "....-12-24": [
         "God jul!"
@@ -81,7 +86,7 @@
     "....-12-31": [
         "Gott nytt år!"
     ],
-    "2021-01-01": [
+    "....-01-01": [
         "Detta året kommmer vara bättre"
     ],
     "....-02-22": [
